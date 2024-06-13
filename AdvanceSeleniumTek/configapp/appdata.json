@@ -1,0 +1,7 @@
+{
+   "Browser" : "Chrome",
+   "url"          : "http://localhost:8888",
+   "uname"  :"admin",
+   "Pwd"     : "admin",
+    "timeout"  : 20
+}
